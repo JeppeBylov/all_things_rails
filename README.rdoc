@@ -1,0 +1,4 @@
+All Things Rails is a new blog by an upcomming developer. 
+It features thoughts, concerns and tricks for the new rails developer. 
+
+Hopefully I can clean up some of the confusion I've experienced myself.
